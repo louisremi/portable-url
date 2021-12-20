@@ -1,4 +1,4 @@
-# portable-url [![npm package version](https://badgen.net/npm/v/portable-url)](https://npm.im/portable-url) [![bundle size](https://badgen.net/bundlephobia/minzip/portable-url)](https://bundlephobia.com/result?p=portable-url) [![github license](https://badgen.net/github/license/GoogleChromeLabs/portable-url)](https://github.com/GoogleChromeLabs/portable-url/blob/master/LICENSE)
+# portable-url [![npm package version](https://badgen.net/npm/v/portable-url)](https://npm.im/portable-url) [![bundle size](https://badgen.net/bundlephobia/minzip/portable-url)](https://bundlephobia.com/result?p=portable-url) [![github license](https://badgen.net/github/license/louisremi/portable-url)](https://github.com/louisremi/portable-url/blob/master/LICENSE)
 
 A lightweight implementation of Node's [url](http://nodejs.org/api/url.html) interface atop the [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL). Use it instead of the `url` module to reduce your bundle size by around 7.5 kB.
 This repo is an active fork of the original [native-url](https://github.com/GoogleChromeLabs/native-url) which has been inactive since June 20.
