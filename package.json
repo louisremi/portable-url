@@ -1,6 +1,6 @@
 {
   "name": "portable-url",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Brings the node url api layer to whatwg-url class",
   "source": "src/index.js",
   "main": "dist/index.js",
